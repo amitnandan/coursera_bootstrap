@@ -1,12 +1,12 @@
 .row-header{
 	margin:0px auto;
-	padding : opx auto;
+	padding : 0px auto;
 }
 .row-content{
-	margin:0px auto;
-	padding : 50px 0px 50px 0px;
+	margin:0px ;
+	padding : 5px 0px 5px 0px;
 	border-bottom: 1px ridge;
-	min-height: 400px;
+	
 }
 .footer{
 	background-color: #D1C4E9;
@@ -27,16 +27,16 @@
 	margin: 0PX;
 	color: #0F0F0F;
 }
-body{
+.row-subcontent{
+	margin:0px ;
+	padding : 5px 0px 5px 0px;
+	border-bottom: 1px ridge;
+	min-height: 440px;
+}
+body {
 	padding: 50px 0px 0px 0px;
 	z-index: 0;
 }
 .navbar-dark{
 	background-color: #512DAB;
-}
-.fa{
-	padding: 5px;
-}
-.navbar-nav{
-	list-style:none;
 }
