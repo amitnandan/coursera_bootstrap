@@ -40,3 +40,9 @@ body {
 .navbar-dark{
 	background-color: #512DAB;
 }
+.fa{
+	padding: 5px;
+}
+.navbar-nav{
+	list-style:none;
+}
