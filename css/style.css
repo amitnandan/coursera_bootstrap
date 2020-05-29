@@ -1,3 +1,4 @@
+@import '~bootstrap/dist/css/bootstrap.css';
 .row-header{
 	margin:0px auto;
 	padding : opx auto;
@@ -39,4 +40,7 @@ body{
 }
 .navbar-nav{
 	list-style:none;
+}
+.badge-danger{
+	background-color: red;
 }
